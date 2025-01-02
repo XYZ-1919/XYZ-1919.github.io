@@ -1,0 +1,200 @@
+:root {
+  --primary-color: #3F84B3;
+  --secondary-color: #00A8E8;
+  --accent-color-1: #4CAF50;
+  --accent-color-2: #FFC107;
+  --background-color: #F9F9F9;
+  --font-color: #212121;
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+      --background-color: #121212;
+      --font-color: #E0E0E0;
+  }
+}
+
+/* Layout Structure */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  color: var(--font-color);
+}
+
+header {
+  background-color: var(--primary-color);
+  color: var(--font-color);
+  padding: 1rem 0;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 1rem;
+}
+
+nav ul li a {
+  color: var(--font-color);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: var(--accent-color-1);
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+.hero {
+  text-align: center;
+}
+
+.hero img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  color: var(--primary-color);
+}
+
+.hero h2 {
+  font-size: 1.5rem;
+  color: var(--secondary-color);
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  background-color: var(--accent-color-1);
+  color: var(--font-color);
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: var(--accent-color-2);
+}
+
+.timeline {
+  position: relative;
+}
+
+.timeline-item {
+  margin-bottom: 2rem;
+}
+
+.timeline-item h3 {
+  color: var(--primary-color);
+}
+
+.timeline-item p {
+  color: var(--secondary-color);
+}
+
+.project-card, .publication-card {
+  border: 1px solid var(--primary-color);
+  padding: 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+.project-card h3, .publication-card h3 {
+  color: var(--primary-color);
+}
+
+.skills-section {
+  margin-bottom: 1rem;
+}
+
+.skills-section h3 {
+  color: var(--primary-color);
+}
+
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  background-color: var(--primary-color);
+  color: var(--font-color);
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 767px) {
+  nav ul li {
+      display: block;
+      margin: 0.5rem 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  nav ul li {
+      display: inline-block;
+      margin: 0 0.5rem;
+  }
+}
+
+/* Smooth Transitions */
+* {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover Effects */
+.project-card:hover, .publication-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+.timeline-item:hover {
+  background-color: var(--background-color);
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+  body {
+      background-color: var(--background-color);
+      color: var(--font-color);
+  }
+
+  .hero h1 {
+      color: var(--secondary-color);
+  }
+
+  .hero h2 {
+      color: var(--primary-color);
+  }
+
+  .btn {
+      background-color: var(--accent-color-2);
+  }
+
+  .btn:hover {
+      background-color: var(--accent-color-1);
+  }
+
+  footer {
+      background-color: var(--secondary-color);
+  }
+}
