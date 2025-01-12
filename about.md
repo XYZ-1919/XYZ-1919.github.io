@@ -84,10 +84,10 @@ R <- c(
 
 # **Contact Links**
 
-<span style="color:blue">**<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<span style="color:blue">**<a href="mailto:collab1122333@gmail.com">collab1122333@gmail.com</a>
 |
-<a href="https://alexander-kahanek.github.io" target="_blank">Personal Website</a>
+<a href="https://github.com/XYZ-1919" target="_blank">Personal Website</a>
 |
-<a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
+<a href="https://github.com/XYZ-1919" target="_blank">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>**</span>
+<a href="https://www.linkedin.com/in/gauri-tripathi-153078254/" target="_blank">LinkedIn</a>**</span>
