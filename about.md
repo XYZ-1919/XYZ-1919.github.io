@@ -11,14 +11,16 @@
 ## **Employment**
 
 
-`Always Open` **Data Science Consulting**
+`Always Open` **Data Scienctist and Machine learning enginner**
 
-&nbsp; &nbsp; &nbsp; _Rubbish, co._
+&nbsp; &nbsp; &nbsp; Mobicule, co._
 
-: > Utilized Clustering Analysis to find insights into littering during events (Startup Grind 2020) and provided feedback on data-collection methods to improve data quality for future Machine Learning and Business ventures.
+: > Collaborated with senior data scientists to design predictive models for analyzing transaction data from fintech apps, enhancing fraud detection accuracy by 20%. 
 
-: > Built a data-oriented dashboard, as a R Shiny Web Application, to display a community led trash cleanup of SoMa West, CA. The dashboard was used by the city 
-government to restructure their cleanup procedures.
+: > Conducted deep exploratory data analysis on user data, uncovering trends that informed strategic product roadmaps and increased app engagement.
+
+: > Optimized A/B testing frameworks by preparing and cleaning experimental datasets, resulting in statistically robust 
+insights that improved feature conversion rates.
 
 
 
