@@ -1,0 +1,67 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Gauri Tripathi"
+  label: "Data Scientist and Machine Learning Engineer" 
+  picture: "/assets/icons/icon.png"
+  email: ""
+  phone: ""
+  website: ""
+  summary: >
+
+  location:
+    address: ""
+    postalCode: ""
+    city: ""
+    countryCode: ""
+    region: ""
+  profiles:
+    - network: "Twitter"
+      username: ""
+      url: ""
+    - network: "LinkedIn"
+      username: ""
+      url: ""
+work:
+  - company: ""
+    position: ""
+    website: ""
+    startDate: ""
+    endDate: ""
+    summary: >
+     
+    highlights:
+
+
+education:
+  - institution: ""
+    area: ""
+    studyType: ""
+    startDate: ""
+    endDate: ""
+    gpa: ""
+    courses:
+      - ""
+      - ""
+
+skills:
+  - name: ""
+    level: ""
+    keywords:
+      - ""
+      - ""
+      - ""
+  - name: ""
+    level: ""
+    keywords:
+
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+interests:
+  - name: ""
+    keywords:
+      - ""
+      - ""
+
