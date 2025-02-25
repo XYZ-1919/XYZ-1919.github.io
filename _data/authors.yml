@@ -1,36 +1,22 @@
-
 author1:
   name:              Gauri Tripathi
   email:             gauritr19@gmail.com
 
   about:             |
-    
+    Machine Learning enthusiast with strong foundation in Data Science 
+    and software development. Passionate about solving complex problems 
+    using data-driven approaches.
 
-    |
-    
-    
-    |
-
-   
-
-    <p align="center"> 
-    </p>
-
-  # This photo will be used in the about section
   picture:
-    path:            /assets/icons/
-    # srcset is optional, but can be used to provide higher res versions for retina displays
+    path:            /assets/icons/icon.png
     srcset:
-      1x:            /assets/icons/
-      2x:            /assets/icons/
+      1x:            /assets/icons/icon.png
+      2x:            /assets/icons/icon@2x.png
 
-  # Social media icons in sidebar
-  # Comment/uncommet to show/hide
-  # Rearrange to change the order in which they appear
   social:
     email:           gauritr19@gmail.com
     github:          GauriTr
-    linkedin:        
+    linkedin:        gauri-tripathi-153078254
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>

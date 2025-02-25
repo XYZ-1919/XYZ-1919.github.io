@@ -5,11 +5,12 @@ basics:
   name: "Gauri Tripathi"
   label: "Data Scientist and Machine Learning Engineer" 
   picture: "/assets/icons/icon.png"
-  email: ""
+  email: "gauritr19@gmail.com"
   phone: ""
   website: ""
   summary: >
-
+    Machine Learning enthusiast with strong foundation in Data Science 
+    and software development.
   location:
     address: ""
     postalCode: ""
@@ -17,12 +18,12 @@ basics:
     countryCode: ""
     region: ""
   profiles:
-    - network: "Twitter"
-      username: ""
-      url: ""
+    - network: "GitHub"
+      username: "GauriTr"
+      url: "https://github.com/GauriTr"
     - network: "LinkedIn"
-      username: ""
-      url: ""
+      username: "gauri-tripathi-153078254"
+      url: "https://www.linkedin.com/in/gauri-tripathi-153078254/"
 work:
   - company: ""
     position: ""
@@ -35,26 +36,61 @@ work:
 
 
 education:
-  - institution: ""
-    area: ""
-    studyType: ""
+  - institution: "B.Tech in Computer Science"
+    area: "Computer Science and Engineering"
+    studyType: "Bachelor's"
     startDate: ""
     endDate: ""
-    gpa: ""
+    gpa: "8.5"
     courses:
       - ""
       - ""
 
 skills:
-  - name: ""
-    level: ""
+  - name: "Languages and Databases"
+    level: "Advanced"
     keywords:
-      - ""
-      - ""
-      - ""
-  - name: ""
-    level: ""
+      - "Python"
+      - "Java"
+      - "R"
+      - "PostgreSQL"
+      - "CassandraDB"
+      - "MySQL"
+  - name: "Frameworks & Libraries"
+    level: "Advanced"
     keywords:
+      - "TensorFlow"
+      - "PyTorch"
+      - "Keras"
+      - "Scikit-learn"
+      - "LangChain"
+      - "Hugging Face"
+      - "FastAPI"
+  - name: "Cloud & DevOps"
+    level: "Advanced"
+    keywords:
+      - "AWS (SageMaker, RDS, EC2, Lambda)"
+      - "Google Cloud"
+      - "Docker"
+      - "CI/CD Pipelines"
+  - name: "Specializations"
+    level: "Advanced"
+    keywords:
+      - "NLP"
+      - "Computer Vision"
+      - "Generative AI"
+      - "Statistical Analysis"
+      - "Machine Learning"
+      - "Deep Learning"
+  - name: "Tools & Platforms"
+    level: "Advanced"
+    keywords:
+      - "Linux (Ubuntu)"
+      - "Git"
+      - "Apache Kafka"
+      - "Airflow"
+      - "RESTful APIs"
+      - "Microservices"
 
 languages:
   - language: "English"
