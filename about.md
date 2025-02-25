@@ -1,7 +1,7 @@
 # Gauri Tripathi
 ## Data Scientist | AI & ML Engineer | AWS Scholar | LLMs, NLP, Deep Learning
 
-<span style="color:blue">**<a href="mailto:gauritr19@gmail.com">gauritr19@gmail.com</a>
+<span style="color:Green">**<a href="mailto:gauritr19@gmail.com">gauritr19@gmail.com</a>
 |
 <a href="https://github.com/GauriTr" target="_blank">GitHub</a>
 |
