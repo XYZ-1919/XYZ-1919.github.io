@@ -8,10 +8,10 @@ author1:
     using data-driven approaches.
 
   picture:
-    path:            /assets/icons/icon.png
+    path:            /assets/icons/logo.png
     srcset:
-      1x:            /assets/icons/icon.png
-      2x:            /assets/icons/icon@2x.png
+      1x:            /assets/icons/logo.png
+      2x:            /assets/icons/logo@2x.png
 
   social:
     email:           gauritr19@gmail.com
