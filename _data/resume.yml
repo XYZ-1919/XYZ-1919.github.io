@@ -24,6 +24,9 @@ basics:
     - network: "LinkedIn"
       username: "gauri-tripathi-153078254"
       url: "https://www.linkedin.com/in/gauri-tripathi-153078254/"
+    - network: "X"
+      username: "Gauri_the_great"
+      url: "https://x.com/Gauri_the_great"
 work:
   - company: ""
     position: ""
