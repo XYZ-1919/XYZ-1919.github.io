@@ -2,33 +2,23 @@
 {% assign username = include.username %}
 
 {% if username.size > 0 %}
-  {% assign = data_social = site.data.social[platform] | default:site.data_social[platform] %}
+  {% assign data_social = site.data.social[platform] | default:site.data_social[platform] %}
 
   {% assign name = data_social.name | default:include.platform %}
   {% assign icon = data_social.icon | default:'icon-link' %}
-  {% assign app = data_social.append %}
-  {% assign prep = data_social.prepend %}
 
-  {% unless data_social %}
-    {% if platform == "email" %}
-      {% assign name = "Email" %}
-      {% assign icon = "icon-mail" %}
-      {% assign prep = "mailto:" %}
-    {% elsif platform == "twitter" %}
-      {% assign name = "X" %}
-      {% assign icon = "icon-twitter" %}
-      {% assign prep = "https://x.com/" %}
-    {% elsif platform == "github" %}
-      {% assign name = "GitHub" %}
-      {% assign icon = "icon-github" %}
-      {% assign prep = "https://github.com/" %}
-    {% endif %}
-  {% endunless %}
-
-  {% if username contains "//" or username contains "mailto:" %}
+  {% if username contains "http" or username contains "mailto:" %}
     {% assign url = username %}
   {% else %}
-    {% assign url = username | prepend:prep | append:app %}
+    {% if platform == "email" %}
+      {% assign url = username | prepend:"mailto:" %}
+    {% elsif platform == "twitter" %}
+      {% assign url = username | prepend:"https://x.com/" %}
+    {% elsif platform == "github" %}
+      {% assign url = username | prepend:"https://github.com/" %}
+    {% else %}
+      {% assign url = username %}
+    {% endif %}
   {% endif %}
 
   <li>
