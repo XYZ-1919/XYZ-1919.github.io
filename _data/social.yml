@@ -36,7 +36,7 @@ telegram:
   icon: icon-telegram
 twitter:
   name: X
-  icon: icon-x
+  icon: icon-twitter
   prepend: 'https://x.com/'
 vine:
   name: Vine
