@@ -14,10 +14,14 @@
       {% assign name = "Email" %}
       {% assign icon = "icon-mail" %}
       {% assign prep = "mailto:" %}
-    {% elsif platform == "twitter" %}
+    {% elsif platform == "linkedin" %}
       {% assign name = "linkedin" %}
       {% assign icon = "icon-linkedin" %}
       {% assign prep = "https://linkedin.com/" %}
+    {% elsif platform == "X" %}
+      {% assign name = "X" %}
+      {% assign icon = "icon-x" %}
+      {% assign prep = "https://x.com/" %}  
     {% elsif platform == "github" %}
       {% assign name = "GitHub" %}
       {% assign icon = "icon-github" %}
