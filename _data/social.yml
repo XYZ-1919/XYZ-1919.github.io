@@ -40,7 +40,7 @@ twitter:
   prepend: 'https://twitter.com/'
 X:
   name: X
-  icon: icon-X
+  icon: icon-x
   prepend: 'https://x.com/'
 vine:
   name: Vine
