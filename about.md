@@ -4,7 +4,7 @@
 |
 <a href="https://github.com/GauriTr" target="_blank">GitHub</a>
 |
-<a href="https://linkedin.com/in/gauri-tripathi-153078254" target="_blank">LinkedIn</a>**</span>
+<a href="https://linkedin.com/in/gauri-tripathi-153078254" target="_blank">LinkedIn</a>
 |
 <a href="https://x.com/Gauri_the_great" target="_blank">X</a>**</span>
 
