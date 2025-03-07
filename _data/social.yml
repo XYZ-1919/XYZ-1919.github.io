@@ -38,6 +38,10 @@ twitter:
   name: Twitter
   icon: icon-twitter
   prepend: 'https://twitter.com/'
+X:
+  name: X
+  icon: icon-twitter
+  prepend: 'https://x.com/'
 vine:
   name: Vine
   icon: icon-vine

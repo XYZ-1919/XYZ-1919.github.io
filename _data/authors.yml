@@ -2,27 +2,20 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Alexander Kahanek
-  email:             alexanderkahanek@gmail.com
+  name:              Gauri Tripathi
+  email:             gauritr19@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am originally from the small city of Gardner, Massachusetts, which is home to the largest chair. After highschool I promptly joined the US Army National Guard as a Healthcare Specialist (68W),
-    which after spending 7 years in the military, as well as 4 years as an EMT, I have recently started a new path towards Data Science. While this is a drastic change, there are a few things that
-    correlate with my time in the military and medical fields, which helps give me a different perspective on ideas. However, since pursuing this goal of Data Science I have learned that I love problem solving, and even more so are problems that involve Mathematics.
-    This is why I have fully switched into pursuing the Data Science and Machine Learning industry.
+    Machine Learning enthusiast with strong foundation in Data Science 
+    and software development. Passionate about solving complex problems 
+    using data-driven approaches.
 
     |
-    
-    Currently, I am utilizing Applied Natural Language Processing to research the sentiment of COVID-19 and CDC Guidelines in Twitter; however, I have a passion for bringing Machine Learning and Data Science solutions and products to companies. I have done work in examining and reccomending data-quality improvements, as well as building dashboards and writing data analysis for small startups.
-    If you are looking for some work anywhere in the Data realm, feel free to reach out! (Especially if you are trying to make the rock we live on a better place.)
-    
+
     |
 
-    There are quite a few things I am passionate about in life, and Data Science is just one facet of my life. My favorite friend is a 
-    little Corgi named Link. Link came into my life when he was only eight weeks old, and by the time he was twelve weeks old I had taught him how to skateboard. I also
-    enjoy doing leather-working in my spare time, making anything from wallets to backpacks.
 
     <p align="center"> 
     <img src="/assets/img/dog.png">
@@ -40,9 +33,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    email:           alexanderkahanek@gmail.com
-    github:          alexander-kahanek
-    linkedin:        alex-kah
+    email:           gauritr19@gmail.com
+    github:          GauriTr
+    linkedin:        gauri-tripathi-153078254
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -72,6 +65,7 @@ author1:
     # hackernews:      <username>
     # trello:          <firstnamelastname>
     # twitter:         <username>
+    X:                Gauri_the_great
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
