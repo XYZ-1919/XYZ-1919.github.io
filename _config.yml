@@ -284,11 +284,12 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                Alexander Kahanek
-#   links:
-#     - https://linkedin.com/alex-kah
-#     - https://github.com/alexander-kahanek
+social:
+   name:                Gauri Tripathi
+   links:
+     - https://linkedin.com/in/gauri-tripathi-153078254
+     - https://github.com/GauriTr
+     - https://x.com/Gauri_the_great
 
 
 # Other Plugins
