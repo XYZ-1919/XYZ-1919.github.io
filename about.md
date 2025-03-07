@@ -1,66 +1,74 @@
-# Alexander R. Kahanek
+# Gauri Tripathi
 
-<span style="color:blue">**<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<span style="color:blue">**<a href="mailto:gauritr19@gmail.com">gauritr19@gmail.com</a>
 |
-<a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
+<a href="https://github.com/GauriTr" target="_blank">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>**</span>
+<a href="https://linkedin.com/in/gauri-tripathi-153078254" target="_blank">LinkedIn</a>**</span>
+|
+<a href="https://x.com/Gauri_the_great" target="_blank">X</a>**</span>
+
+## **Summary**
+
+I am a Data Scientist, ML Engineer, and Software Developer with a strong background in machine learning, AI, and software development. I specialize in building scalable models, optimizing algorithms, and delivering AI-driven solutions. My experience includes an impactful internship at a leading fintech company, where I contributed to developing data-driven strategies and optimizing models for real-world applications.
+
+Currently seeking internship and full-time roles in data science, AI, and machine learning to leverage my skills in impactful projects.
 
 
+## **Experience**
 
-## **Employment**
+`June 2024 - Sept 2024` **Data Science Intern**
+&nbsp; &nbsp; &nbsp; _Mobicule Technologies Pvt. Ltd._
 
+`Feb 2024 - April 2024` **Freelance AI Engineer**
+: > Designed and deployed a Retrieval-Augmented Generation (RAG) chatbot for an event management company's website
+: > Integrated vector search with large language models for real-time event information
+: > Streamlined customer inquiries using Python, Langchain and NLP techniques
+: > Significantly enhanced user experience and reduced manual support dependency
 
-`Always Open` **Data Science Consulting**
+`Oct 2023 - Jan 2024` **AWS AI & ML Scholar**
+&nbsp; &nbsp; &nbsp; _Amazon Web Services (AWS)_
+: > Selected for the coveted Amazon Web Services program
+: > Gained in-depth knowledge in AI and ML through extensive coursework
+: > Completed hands-on projects in artificial intelligence and machine learning
 
-&nbsp; &nbsp; &nbsp; _Rubbish, co._
+`Aug 2023 - Sept 2023` **Builder**
+&nbsp; &nbsp; &nbsp; _buildspace_
+: > Participated in Nights and weekends S4
+: > Worked on innovative project ideas
 
-: > Utilized Clustering Analysis to find insights into littering during events (Startup Grind 2020) and provided feedback on data-collection methods to improve data quality for future Machine Learning and Business ventures.
+## **Education**
 
-: > Built a data-oriented dashboard, as a R Shiny Web Application, to display a community led trash cleanup of SoMa West, CA. The dashboard was used by the city 
-government to restructure their cleanup procedures.
+`2021-2025` **Madhav Institute of Technology and Science, Gwalior**
+: B.Tech in Computer Science and Engineering
 
-
-
-`2020-Curr` **Machine Learning Researcher**
-
-&nbsp; &nbsp; &nbsp; _University of North Texas_
-
-: > Currently working with Twitter data to analyze sentiment and topics of racists tweets revolving around COVID-19, utilizing state-of-the-art Natural Language Processing techniques and models.
-
-: > Developed generalized methods to improve Morphological Inflection in Low-Resource Languages, utilizing data manipulation. These methods improved the accuracy of Deep Learning Neural Network predictions by 5%.
-
-
-
-`2012-18` **Health Care Specialist (68W)**
-
-&nbsp; &nbsp; &nbsp; _United States Army, National Guard (MA, TX)_
-
-: > Spearheaded a team of 15 people, that reduced response time by 50%, for the East African Response Force.
-
-: > Worked in trauma-based and clinical medicine, treating thousands of patients, and defining medical procedures.
-
-
-## **Publications**
-
-
-Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. _Temporal variations and spatial disparities in public reaction towards COVID-19 and CDC guidelines in the United States._ (Submitted to Journal of Information Science)
-
----------------------------------------------------------------------------------
+`Current` **Indian Institute of Technology, Madras**
+: Bachelor of Science in Data Science and Applications
 
 ## **Programming skills**
 
 ```python
-Python = [PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy,
-          numPy, Pandas, Matplotlib, GeoPandas, Gym]
+Python = [PyTorch, Keras, TensorFlow, S,
+          Python, Java, R,PostgreSQL, CassandraDB, MySQL]
+### Frameworks & Libraries
+- TensorFlow, PyTorch, Keras
+- Scikit-learn, LangChain
+- Hugging Face, FastAPI
+### Cloud & DevOps
+- AWS (SageMaker, RDS, EC2, Lambda)
+- Google Cloud
+- Docker
+- CI/CD Pipelines
 
-R <- c(
-        Tidyverse, RandomForest, GGplot2
-        ,Plotly, Highcharters, Shiny, Caret
-    )
+### Specializations
+- Natural Language Processing (NLP)
+- Computer Vision
+- Generative AI
+- Statistical Analysis
+- Machine Learning
+- Deep Learning
 
- std::string others[8] = {"C", "C++", "Elixir", "Phoenix",
-                         "SQL", "JS", "CSS", "HTML"};
+ std::string others[8] = {Linux (Ubuntu),Git,Apache Kafka,Airflow,RESTful APIs,Microservices};
 ```
 
 
@@ -68,24 +76,20 @@ R <- c(
 
 |
 
-<p align="center"><img src="https://alexander-kahanek.github.io/assets/img/expertise_graph.png"></p>
+<p align="center"><img src="https://xyz-1919.github.io/assets/img/expertise_graph.png"></p>
 
 
-## **Education**
 
-`2018- December 21` **University of North Texas**
-
-: B.S. Data Science, Minor in Mathematics, Statistics Certification
-
-: Current **GPA: 3.9**
 
 
 # **Contact Links**
 
-<span style="color:blue">**<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<span style="color:blue">**<a href="mailto:gauritr19.com">gauritr19@gmail.com</a>
 |
-<a href="https://alexander-kahanek.github.io" target="_blank">Personal Website</a>
+<a href="https://xyz-1919.github.io" target="_blank">Personal Website</a>
 |
-<a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
+<a href="https://github.com/GauriTr" target="_blank">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>**</span>
+<a href="https://linkedin.com/in/gauri-tripathi-153078254" target="_blank">LinkedIn</a>**</span>
+|
+<a href="https://x.com/Gauri_the_great" target="_blank">X</a>**</span>
