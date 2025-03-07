@@ -32,7 +32,7 @@ author:
   name:                Gauri Tripathi
   email:               gauritr19@gmail.com
   # Used by `jekyll-seo-tag`:
-  X:                   Gauri_the_great
+  x:                   Gauri_the_great
 
 # Add links to the sidebar.
 menu:
